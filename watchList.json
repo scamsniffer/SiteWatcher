@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Uniswap",
+        "domains": [
+            "app.uniswap.org"
+        ]
+    },
+    {
+        "name": "Curve",
+        "domains": [
+            "curve.fi"
+        ]
+    },
+    {
+        "name": "Pancake Swap",
+        "domains": [
+            "pancakeswap.finance"
+        ]
+    },
+    {
+        "name": "1inch",
+        "domains": [
+            "app.1inch.io"
+        ]
+    },
+    {
+        "domains": ["gnosis-safe.io"]
+    },
+    {
+        "domains": ["synthetix.io"]
+    },
+    {
+        "domains": ["app.compound.finance"]
+    },
+    {
+        "domains": ["yearn.finance"]
+    },
+    {
+        "domains": ["app.multichain.org"]
+    },
+    {
+        "domains": ["looksrare.org"]
+    },
+    {
+        "domains": ["opensea.io"]
+    },
+    {
+        "domains": ["convexfinance.com"]
+    },
+    {
+        "domains": ["x2y2.io"]
+    },
+    {
+        "domains": ["gem.xyz"]
+    },
+    {
+        "domains": [
+            "app.traitsniper.com"
+        ]
+    },
+    {
+        "domains": [
+            "premint.xyz"
+        ]
+    },
+    {
+        "domains": [
+            "icy.tools"
+        ]
+    },
+    {
+        "domains": ["stake.lido.fi"]
+    },
+    {
+        "domains": ["oasis.app"]
+    },
+    {
+        "domains": ["app.aave.com"]
+    },
+    {
+        "domains": ["defi.instadapp.io"]
+    },
+    {
+        "domains": ["app.balancer.fi"]
+    },
+    {
+        "domains": ["trade.dydx.exchange"]
+    },
+    {
+        "domains": ["app.cream.finance"]
+    },
+    {
+        "domains": ["quickswap.exchange"]
+    },
+    {
+        "domains": ["app.ribbon.finance"]
+    },
+    {
+        "domains": ["app.defisaver.com"]
+    },
+    {
+        "domains": ["stargate.finance"]
+    },
+    {
+        "domains": ["app.stakewise.io"]
+    },
+    {
+        "domains": ["app.badger.com"]
+    },
+    {
+        "domains": ["app.idle.finance"]
+    },
+    {
+        "domains": ["benddao.xyz"]
+    },
+    {
+        "domains": ["shibaswap.com"]
+    },
+    {
+        "domains": ["across.to"]
+    },
+    {
+        "domains": ["app.rari.capital"]
+    },
+    {
+        "domains": ["app.dodoex.io"]
+    },
+    {
+        "domains": ["app.element.fi"]
+    },
+    {
+        "domains": ["app.frax.finance"]
+    },
+    {
+        "domains": ["app.venus.io"]
+    },
+    {
+        "domains": ["app.alpacafinance.org"]
+    },
+    {
+        "domains": ["app.benqi.fi"]
+    },
+    {
+        "domains": ["gmx.io"]
+    },
+    {
+        "domains": ["trade.mango.markets"]
+    },
+    {
+        "domains": ["traderjoexyz.com"]
+    },
+    {
+        "domains": ["app.alpacafinance.org"]
+    },
+    {
+        "domains": ["app.bastionprotocol.com"]
+    },
+    {
+        "domains": ["cbridge.celer.network"]
+    }
+]
