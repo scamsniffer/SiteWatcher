@@ -157,5 +157,8 @@
     },
     {
         "domains": ["cbridge.celer.network"]
+    },
+    {
+        "domains": ["galxe.com"]
     }
 ]
