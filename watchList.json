@@ -160,5 +160,20 @@
     },
     {
         "domains": ["galxe.com"]
+    },
+    {
+        "domains": ["app.stcelo.xyz"]
+    },
+    {
+        "domains": ["optics.app"]
+    },
+    {
+        "domains": ["forum.celo.org"]
+    },
+    {
+        "domains": ["explorer.celo.org"]
+    },
+    {
+        "domains": ["forno.celo.org"]
     }
 ]
