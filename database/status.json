@@ -124,10 +124,10 @@
       }
     ],
     "records": [
-      "35.169.59.174",
-      "18.213.222.111"
+      "54.84.236.175",
+      "44.217.161.11"
     ],
-    "lastScan": "2023-10-28T02:30:30.072Z"
+    "lastScan": "2023-10-28T02:41:24.089Z"
   },
   "app.uniswap.org": {
     "domain": "app.uniswap.org",
@@ -206,10 +206,10 @@
       }
     ],
     "records": [
-      "104.18.22.54",
-      "104.18.23.54"
+      "104.18.23.54",
+      "104.18.22.54"
     ],
-    "lastScan": "2023-10-28T02:29:43.253Z"
+    "lastScan": "2023-10-28T02:40:37.267Z"
   },
   "curve.fi": {
     "domain": "curve.fi",
@@ -272,7 +272,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:29:44.258Z"
+    "lastScan": "2023-10-28T02:40:38.269Z"
   },
   "pancakeswap.finance": {
     "domain": "pancakeswap.finance",
@@ -341,7 +341,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:29:45.261Z"
+    "lastScan": "2023-10-28T02:40:39.272Z"
   },
   "app.1inch.io": {
     "domain": "app.1inch.io",
@@ -375,7 +375,7 @@
       "104.18.42.100",
       "172.64.145.156"
     ],
-    "lastScan": "2023-10-28T02:29:46.265Z"
+    "lastScan": "2023-10-28T02:40:40.275Z"
   },
   "gnosis-safe.io": {
     "domain": "gnosis-safe.io",
@@ -502,12 +502,12 @@
       }
     ],
     "records": [
-      "3.162.112.106",
       "3.162.112.54",
       "3.162.112.43",
+      "3.162.112.106",
       "3.162.112.59"
     ],
-    "lastScan": "2023-10-28T02:29:47.270Z"
+    "lastScan": "2023-10-28T02:40:41.290Z"
   },
   "synthetix.io": {
     "domain": "synthetix.io",
@@ -582,7 +582,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:29:48.272Z"
+    "lastScan": "2023-10-28T02:40:42.291Z"
   },
   "app.compound.finance": {
     "domain": "app.compound.finance",
@@ -652,7 +652,7 @@
       "104.18.29.126",
       "104.18.28.126"
     ],
-    "lastScan": "2023-10-28T02:29:49.277Z"
+    "lastScan": "2023-10-28T02:40:43.293Z"
   },
   "yearn.finance": {
     "domain": "yearn.finance",
@@ -781,7 +781,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:29:50.279Z"
+    "lastScan": "2023-10-28T02:40:44.297Z"
   },
   "app.multichain.org": {
     "domain": "app.multichain.org",
@@ -830,11 +830,11 @@
       }
     ],
     "records": [
+      "104.26.13.45",
       "104.26.12.45",
-      "172.67.70.178",
-      "104.26.13.45"
+      "172.67.70.178"
     ],
-    "lastScan": "2023-10-28T02:29:51.283Z"
+    "lastScan": "2023-10-28T02:40:45.300Z"
   },
   "looksrare.org": {
     "domain": "looksrare.org",
@@ -907,10 +907,10 @@
       }
     ],
     "records": [
-      "104.18.38.189",
-      "172.64.149.67"
+      "172.64.149.67",
+      "104.18.38.189"
     ],
-    "lastScan": "2023-10-28T02:29:52.286Z"
+    "lastScan": "2023-10-28T02:40:46.303Z"
   },
   "opensea.io": {
     "domain": "opensea.io",
@@ -1025,10 +1025,10 @@
       }
     ],
     "records": [
-      "172.64.154.159",
-      "104.18.33.97"
+      "104.18.33.97",
+      "172.64.154.159"
     ],
-    "lastScan": "2023-10-28T02:29:53.289Z"
+    "lastScan": "2023-10-28T02:40:47.306Z"
   },
   "convexfinance.com": {
     "domain": "convexfinance.com",
@@ -1043,7 +1043,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:29:54.334Z"
+    "lastScan": "2023-10-28T02:40:48.307Z"
   },
   "x2y2.io": {
     "domain": "x2y2.io",
@@ -1075,10 +1075,10 @@
     ],
     "records": [
       "172.67.75.154",
-      "104.26.8.142",
-      "104.26.9.142"
+      "104.26.9.142",
+      "104.26.8.142"
     ],
-    "lastScan": "2023-10-28T02:29:55.338Z"
+    "lastScan": "2023-10-28T02:40:49.311Z"
   },
   "gem.xyz": {
     "domain": "gem.xyz",
@@ -1184,7 +1184,7 @@
       "172.64.145.24",
       "104.18.42.232"
     ],
-    "lastScan": "2023-10-28T02:29:56.341Z"
+    "lastScan": "2023-10-28T02:40:50.315Z"
   },
   "app.traitsniper.com": {
     "domain": "app.traitsniper.com",
@@ -1215,10 +1215,10 @@
       }
     ],
     "records": [
-      "104.18.21.193",
-      "104.18.20.193"
+      "104.18.20.193",
+      "104.18.21.193"
     ],
-    "lastScan": "2023-10-28T02:29:57.345Z"
+    "lastScan": "2023-10-28T02:40:51.319Z"
   },
   "premint.xyz": {
     "domain": "premint.xyz",
@@ -1289,7 +1289,7 @@
       "172.67.40.138",
       "104.22.68.69"
     ],
-    "lastScan": "2023-10-28T02:29:58.352Z"
+    "lastScan": "2023-10-28T02:40:52.322Z"
   },
   "icy.tools": {
     "domain": "icy.tools",
@@ -1356,10 +1356,10 @@
       }
     ],
     "records": [
-      "104.18.8.60",
-      "104.18.9.60"
+      "104.18.9.60",
+      "104.18.8.60"
     ],
-    "lastScan": "2023-10-28T02:29:59.713Z"
+    "lastScan": "2023-10-28T02:40:53.324Z"
   },
   "stake.lido.fi": {
     "domain": "stake.lido.fi",
@@ -1438,10 +1438,10 @@
       }
     ],
     "records": [
-      "104.18.24.198",
-      "104.18.25.198"
+      "104.18.25.198",
+      "104.18.24.198"
     ],
-    "lastScan": "2023-10-28T02:30:00.716Z"
+    "lastScan": "2023-10-28T02:40:54.327Z"
   },
   "oasis.app": {
     "domain": "oasis.app",
@@ -1568,12 +1568,12 @@
       }
     ],
     "records": [
+      "13.32.151.73",
       "13.32.151.89",
       "13.32.151.121",
-      "13.32.151.73",
       "13.32.151.59"
     ],
-    "lastScan": "2023-10-28T02:30:01.740Z"
+    "lastScan": "2023-10-28T02:40:55.329Z"
   },
   "app.aave.com": {
     "domain": "app.aave.com",
@@ -1640,10 +1640,10 @@
       }
     ],
     "records": [
-      "172.67.220.166",
-      "104.21.62.62"
+      "104.21.62.62",
+      "172.67.220.166"
     ],
-    "lastScan": "2023-10-28T02:30:02.745Z"
+    "lastScan": "2023-10-28T02:40:56.333Z"
   },
   "defi.instadapp.io": {
     "domain": "defi.instadapp.io",
@@ -1734,11 +1734,11 @@
       }
     ],
     "records": [
-      "172.67.73.1",
       "104.26.0.27",
+      "172.67.73.1",
       "104.26.1.27"
     ],
-    "lastScan": "2023-10-28T02:30:03.751Z"
+    "lastScan": "2023-10-28T02:40:57.337Z"
   },
   "app.balancer.fi": {
     "domain": "app.balancer.fi",
@@ -1853,10 +1853,10 @@
       }
     ],
     "records": [
-      "76.76.21.61",
-      "76.76.21.241"
+      "76.76.21.93",
+      "76.76.21.22"
     ],
-    "lastScan": "2023-10-28T02:30:04.755Z"
+    "lastScan": "2023-10-28T02:40:58.340Z"
   },
   "trade.dydx.exchange": {
     "domain": "trade.dydx.exchange",
@@ -1959,10 +1959,10 @@
       }
     ],
     "records": [
-      "104.18.34.28",
-      "172.64.153.228"
+      "172.64.153.228",
+      "104.18.34.28"
     ],
-    "lastScan": "2023-10-28T02:30:05.757Z"
+    "lastScan": "2023-10-28T02:40:59.342Z"
   },
   "app.cream.finance": {
     "domain": "app.cream.finance",
@@ -2029,10 +2029,10 @@
       }
     ],
     "records": [
-      "172.67.140.98",
-      "104.21.40.243"
+      "104.21.40.243",
+      "172.67.140.98"
     ],
-    "lastScan": "2023-10-28T02:30:06.769Z"
+    "lastScan": "2023-10-28T02:41:00.353Z"
   },
   "quickswap.exchange": {
     "domain": "quickswap.exchange",
@@ -2162,7 +2162,7 @@
       "172.67.200.172",
       "104.21.82.110"
     ],
-    "lastScan": "2023-10-28T02:30:07.773Z"
+    "lastScan": "2023-10-28T02:41:01.356Z"
   },
   "app.ribbon.finance": {
     "domain": "app.ribbon.finance",
@@ -2259,10 +2259,10 @@
       }
     ],
     "records": [
-      "76.76.21.61",
-      "76.76.21.241"
+      "76.76.21.93",
+      "76.76.21.22"
     ],
-    "lastScan": "2023-10-28T02:30:08.781Z"
+    "lastScan": "2023-10-28T02:41:02.359Z"
   },
   "app.defisaver.com": {
     "domain": "app.defisaver.com",
@@ -2317,11 +2317,11 @@
       }
     ],
     "records": [
+      "104.22.35.139",
       "172.67.22.50",
-      "104.22.34.139",
-      "104.22.35.139"
+      "104.22.34.139"
     ],
-    "lastScan": "2023-10-28T02:30:09.785Z"
+    "lastScan": "2023-10-28T02:41:03.363Z"
   },
   "stargate.finance": {
     "domain": "stargate.finance",
@@ -2388,11 +2388,11 @@
       }
     ],
     "records": [
-      "104.26.0.220",
       "104.26.1.220",
+      "104.26.0.220",
       "172.67.73.123"
     ],
-    "lastScan": "2023-10-28T02:30:10.789Z"
+    "lastScan": "2023-10-28T02:41:04.368Z"
   },
   "app.stakewise.io": {
     "domain": "app.stakewise.io",
@@ -2465,10 +2465,10 @@
       }
     ],
     "records": [
-      "76.76.21.61",
-      "76.76.21.241"
+      "76.76.21.142",
+      "76.76.21.164"
     ],
-    "lastScan": "2023-10-28T02:30:11.794Z"
+    "lastScan": "2023-10-28T02:41:05.371Z"
   },
   "app.badger.com": {
     "domain": "app.badger.com",
@@ -2499,10 +2499,10 @@
       }
     ],
     "records": [
-      "104.18.19.192",
-      "104.18.18.192"
+      "104.18.18.192",
+      "104.18.19.192"
     ],
-    "lastScan": "2023-10-28T02:30:12.798Z"
+    "lastScan": "2023-10-28T02:41:06.375Z"
   },
   "app.idle.finance": {
     "domain": "app.idle.finance",
@@ -2545,12 +2545,12 @@
       }
     ],
     "records": [
-      "185.199.109.153",
-      "185.199.111.153",
       "185.199.110.153",
-      "185.199.108.153"
+      "185.199.111.153",
+      "185.199.108.153",
+      "185.199.109.153"
     ],
-    "lastScan": "2023-10-28T02:30:13.799Z"
+    "lastScan": "2023-10-28T02:41:07.376Z"
   },
   "benddao.xyz": {
     "domain": "benddao.xyz",
@@ -2617,11 +2617,11 @@
       }
     ],
     "records": [
-      "104.26.5.202",
       "104.26.4.202",
-      "172.67.70.23"
+      "172.67.70.23",
+      "104.26.5.202"
     ],
-    "lastScan": "2023-10-28T02:30:14.803Z"
+    "lastScan": "2023-10-28T02:41:08.379Z"
   },
   "shibaswap.com": {
     "domain": "shibaswap.com",
@@ -2652,10 +2652,10 @@
       }
     ],
     "records": [
-      "104.17.64.14",
-      "104.17.96.13"
+      "104.17.96.13",
+      "104.17.64.14"
     ],
-    "lastScan": "2023-10-28T02:30:15.807Z"
+    "lastScan": "2023-10-28T02:41:09.382Z"
   },
   "across.to": {
     "domain": "across.to",
@@ -2682,7 +2682,7 @@
     "records": [
       "76.76.21.21"
     ],
-    "lastScan": "2023-10-28T02:30:16.809Z"
+    "lastScan": "2023-10-28T02:41:10.385Z"
   },
   "app.rari.capital": {
     "domain": "app.rari.capital",
@@ -2761,10 +2761,10 @@
       }
     ],
     "records": [
-      "76.76.21.241",
-      "76.76.21.61"
+      "76.76.21.142",
+      "76.76.21.164"
     ],
-    "lastScan": "2023-10-28T02:30:17.811Z"
+    "lastScan": "2023-10-28T02:41:11.445Z"
   },
   "app.dodoex.io": {
     "domain": "app.dodoex.io",
@@ -2831,10 +2831,10 @@
       }
     ],
     "records": [
-      "104.18.12.24",
-      "104.18.13.24"
+      "104.18.13.24",
+      "104.18.12.24"
     ],
-    "lastScan": "2023-10-28T02:30:18.836Z"
+    "lastScan": "2023-10-28T02:41:12.476Z"
   },
   "app.element.fi": {
     "domain": "app.element.fi",
@@ -2901,11 +2901,11 @@
       }
     ],
     "records": [
-      "104.22.68.149",
+      "104.22.69.149",
       "172.67.13.1",
-      "104.22.69.149"
+      "104.22.68.149"
     ],
-    "lastScan": "2023-10-28T02:30:19.839Z"
+    "lastScan": "2023-10-28T02:41:13.481Z"
   },
   "app.frax.finance": {
     "domain": "app.frax.finance",
@@ -2972,15 +2972,39 @@
       }
     ],
     "records": [
-      "104.22.0.218",
+      "104.22.1.218",
       "172.67.23.68",
-      "104.22.1.218"
+      "104.22.0.218"
     ],
-    "lastScan": "2023-10-28T02:30:20.844Z"
+    "lastScan": "2023-10-28T02:41:14.487Z"
   },
   "app.venus.io": {
     "domain": "app.venus.io",
     "recent": [
+      {
+        "ip": "18.67.111.73",
+        "date": "2023-10-28T02:41:15.705Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "18.67.111.28",
+        "date": "2023-10-28T02:41:15.676Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "18.67.111.10",
+        "date": "2023-10-28T02:41:15.630Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "18.67.111.87",
+        "date": "2023-10-28T02:41:15.579Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
       {
         "ip": "13.32.27.11",
         "date": "2023-10-26T00:55:26.018Z",
@@ -3076,39 +3100,15 @@
         "date": "2023-10-16T06:58:39.646Z",
         "isp": "Amazon Technologies Inc. (AMAZON, Global)",
         "organization": "Amazon.com, Inc."
-      },
-      {
-        "ip": "13.227.37.28",
-        "date": "2023-10-16T06:47:45.585Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "13.227.37.87",
-        "date": "2023-10-16T06:47:45.558Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "13.227.37.71",
-        "date": "2023-10-16T06:47:45.525Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "13.227.37.76",
-        "date": "2023-10-16T06:47:45.504Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
       }
     ],
     "records": [
-      "13.249.39.35",
-      "13.249.39.16",
-      "13.249.39.109",
-      "13.249.39.5"
+      "18.67.111.87",
+      "18.67.111.10",
+      "18.67.111.28",
+      "18.67.111.73"
     ],
-    "lastScan": "2023-10-28T02:30:21.939Z"
+    "lastScan": "2023-10-28T02:41:15.498Z"
   },
   "app.alpacafinance.org": {
     "domain": "app.alpacafinance.org",
@@ -3238,7 +3238,7 @@
       "104.21.70.228",
       "172.67.140.42"
     ],
-    "lastScan": "2023-10-28T02:30:28.044Z"
+    "lastScan": "2023-10-28T02:41:21.986Z"
   },
   "app.benqi.fi": {
     "domain": "app.benqi.fi",
@@ -3253,7 +3253,7 @@
     "records": [
       "34.107.210.160"
     ],
-    "lastScan": "2023-10-28T02:30:23.945Z"
+    "lastScan": "2023-10-28T02:41:17.712Z"
   },
   "gmx.io": {
     "domain": "gmx.io",
@@ -3380,10 +3380,10 @@
       }
     ],
     "records": [
-      "44.217.247.226",
-      "54.156.13.12"
+      "3.212.91.35",
+      "44.217.247.226"
     ],
-    "lastScan": "2023-10-28T02:30:25.035Z"
+    "lastScan": "2023-10-28T02:41:18.715Z"
   },
   "trade.mango.markets": {
     "domain": "trade.mango.markets",
@@ -3480,14 +3480,38 @@
       }
     ],
     "records": [
-      "76.76.21.123",
-      "76.76.21.22"
+      "76.76.21.241",
+      "76.76.21.98"
     ],
-    "lastScan": "2023-10-28T02:30:26.040Z"
+    "lastScan": "2023-10-28T02:41:19.981Z"
   },
   "traderjoexyz.com": {
     "domain": "traderjoexyz.com",
     "recent": [
+      {
+        "ip": "99.84.252.22",
+        "date": "2023-10-28T02:41:20.986Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "99.84.252.7",
+        "date": "2023-10-28T02:41:20.985Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "99.84.252.11",
+        "date": "2023-10-28T02:41:20.985Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
+      {
+        "ip": "99.84.252.33",
+        "date": "2023-10-28T02:41:20.985Z",
+        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
+        "organization": "Amazon.com, Inc."
+      },
       {
         "ip": "13.35.77.44",
         "date": "2023-10-28T01:35:58.256Z",
@@ -3583,39 +3607,15 @@
         "date": "2023-10-27T22:19:50.898Z",
         "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
         "organization": ""
-      },
-      {
-        "ip": "18.64.155.80",
-        "date": "2023-10-27T21:58:02.569Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "18.64.155.34",
-        "date": "2023-10-27T21:58:02.569Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "18.64.155.28",
-        "date": "2023-10-27T21:58:02.569Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
-      },
-      {
-        "ip": "18.64.155.87",
-        "date": "2023-10-27T21:58:02.569Z",
-        "isp": "Amazon Technologies Inc. (CLOUDFRONT, Global)",
-        "organization": ""
       }
     ],
     "records": [
-      "13.35.77.40",
-      "13.35.77.52",
-      "13.35.77.44",
-      "13.35.77.17"
+      "99.84.252.33",
+      "99.84.252.11",
+      "99.84.252.7",
+      "99.84.252.22"
     ],
-    "lastScan": "2023-10-28T02:30:27.044Z"
+    "lastScan": "2023-10-28T02:41:20.985Z"
   },
   "app.bastionprotocol.com": {
     "domain": "app.bastionprotocol.com",
@@ -3646,10 +3646,10 @@
       }
     ],
     "records": [
-      "172.67.74.217",
       "104.26.4.220",
+      "172.67.74.217",
       "104.26.5.220"
     ],
-    "lastScan": "2023-10-28T02:30:29.047Z"
+    "lastScan": "2023-10-28T02:41:22.990Z"
   }
 }
